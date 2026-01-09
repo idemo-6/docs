@@ -24,3 +24,11 @@ In the event that commercial use or licensing of IDEMO materials
 is considered in the future, the project maintainers recognize
 the value of community contributions and intend to approach
 such matters in a transparent and community-respecting manner.
+
+## Code Contributions
+
+By contributing source code to this repository, you agree that your
+contribution may be distributed under the IDEMO Code Dual License.
+
+This includes availability for non-commercial use and the possibility
+of commercial licensing under separate agreements.
