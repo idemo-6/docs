@@ -1,3 +1,8 @@
+IDEMO is an open methodological and semantic corpus for intent-driven computation.
+This repository contains the core documentation and conceptual framework
+designed for non-commercial research and community collaboration.
+Commercial use is possible under separate agreements.
+
 ## License
 
 This repository uses a layered licensing model:
