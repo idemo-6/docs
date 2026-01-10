@@ -2,7 +2,7 @@
 title: 1.1.1. Канон ~ IDEMO Canon (Core Ontology)
 description: 
 published: true
-date: 2026-01-10T12:15:07.461Z
+date: 2026-01-10T12:15:26.816Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T12:07:14.717Z
@@ -27,7 +27,9 @@ dateCreated: 2026-01-10T12:07:14.717Z
 IDEMO — вычислительная парадигма, в которой первичной онтологической единицей является Intent; реализация является полностью производной и динамически порождается через Change Operators в процессе ChangeFlow, реализуемого в топологии LifeCycle.
 
 ## 1.1.1.4. Формальное определение <a name="1-1-1-4"></a>
+$$
 IDEMO := ⟨Intent, ChangeFlow-6, ChangeOperators, Experience⟩
+$$
 
 ## 1.1.1.5. Отрицания <a name="1-1-1-5"></a>
 - IDEMO — это не язык программирования  
