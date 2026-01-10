@@ -1,3 +1,13 @@
+---
+title: LICENSE
+description: 
+published: true
+date: 2026-01-10T09:08:16.952Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:17.459Z
+---
+
 # Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
 
 © 2025 Yasha Okoneshnikov & contributors

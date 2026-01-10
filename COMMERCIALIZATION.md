@@ -1,3 +1,13 @@
+---
+title: COMMERCIALIZATION
+description: 
+published: true
+date: 2026-01-10T09:08:10.877Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:08.216Z
+---
+
 # Commercialization and Community Value
 
 IDEMO is developed as an open, non-commercial methodological corpus.  

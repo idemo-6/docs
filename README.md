@@ -1,3 +1,13 @@
+---
+title: README
+description: 
+published: true
+date: 2026-01-10T09:08:19.107Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:20.234Z
+---
+
 IDEMO is an open methodological and semantic corpus for intent-driven computation.
 This repository contains the core documentation and conceptual framework
 designed for non-commercial research and community collaboration.

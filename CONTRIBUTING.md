@@ -1,3 +1,13 @@
+---
+title: CONTRIBUTING
+description: 
+published: true
+date: 2026-01-10T09:08:12.905Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:11.535Z
+---
+
 # Contributing to IDEMO
 
 Thank you for your interest in contributing to the IDEMO project.

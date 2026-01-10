@@ -1,3 +1,13 @@
+---
+title: LICENSE-CODE
+description: 
+published: true
+date: 2026-01-10T09:08:14.951Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:14.682Z
+---
+
 # IDEMO Code Dual License
 
 © 2025 Yasha Okoneshnikov & contributors
