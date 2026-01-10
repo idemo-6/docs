@@ -2,7 +2,7 @@
 title: README
 description: 
 published: true
-date: 2026-01-10T09:08:19.107Z
+date: 2026-01-10T09:52:47.856Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T09:03:20.234Z
@@ -23,7 +23,7 @@ This repository uses a layered licensing model:
 | Source Code (IDEMO Code) | IDEMO Code Dual License | Free for non-commercial use, commercial use by agreement |
 
 See:
-- LICENSE.md for the IDEMO Corpus
-- LICENSE-CODE.md for source code licensing
-- CONTRIBUTING.md for contribution terms
-- COMMERCIALIZATION.md for principles of potential commercial use
+- [LICENSE.md](https://github.com/idemo-6/docs/blob/main/LICENSE.md) - for the IDEMO Corpus
+- [LICENSE.md](https://github.com/idemo-6/docs/blob/main/LICENSE-CODE.md) - for source code licensing
+- [LICENSE.md](https://github.com/idemo-6/docs/blob/main/CONTRIBUTING.md) - for contribution terms
+- [LICENSE.md](https://github.com/idemo-6/docs/blob/main/COMMERCIALIZATION.md) - for principles of potential commercial use
