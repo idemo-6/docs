@@ -2,7 +2,7 @@
 title: 1.1.1. Канон ~ IDEMO Canon (Core Ontology)
 description: 
 published: true
-date: 2026-01-10T12:07:14.717Z
+date: 2026-01-10T12:10:07.207Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T12:07:14.717Z
@@ -11,11 +11,11 @@ dateCreated: 2026-01-10T12:07:14.717Z
 ## 1.1.1.1. Основное <a name="1-1-1-1"></a>
 Документ описывает каноническое определение IDEMO как вычислительной парадигмы, в которой первичной онтологической единицей является Intent.
 
-> *Версия: doc.1.1.1.v.1.0.1.1 ∙ январь 2025*<br/><br class="hidden-wiki"/>
-> *Текущий LifeCycle:* `Draft` → Candidate → Stable → **Canonical**<br class="hidden-wiki"/>
-> *Фаза:*. `Birth` → Develop → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
-> *Текущий ChangeFlow:* #1<br  class="hidden-wiki"/>
-> *Фаза:*  `collect` → analyze → forecast → decide → implement → evaluate<br/><br class="hidden-wiki"/>
+> *Версия: doc.1.1.1.v.1.1.3.4 ∙ январь 2025*<br/><br class="hidden-wiki"/>
+> *Текущий LifeCycle:* ~~Draft~~ → `Candidate` → Stable → **Canonical**<br class="hidden-wiki"/>
+> *Фаза:*. ~~Birth~~ → `Develop` → Climax → Degrade → Turn → End( death | transform )<br/><br class="hidden-wiki"/>
+> *Текущий ChangeFlow:* #3<br  class="hidden-wiki"/>
+> *Фаза:*  ~~collect~~ → ~~analyze~~ → ~~forecast~~ → ~~decide~~ → `implement` → evaluate<br/><br class="hidden-wiki"/>
 > <a href="/ru/2-applied/4-examples/1-common/doc-lifecycle.md" target="_blank"><small>Подробно о LifeCycle документа</small></a>
 
 ## 1.1.1.2. Связанные документы <a name="1-1-1-2"></a>
