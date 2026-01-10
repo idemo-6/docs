@@ -2,7 +2,7 @@
 title: 1.1.__id__ Канон ~ __title__
 description: 
 published: true
-date: 2026-01-10T11:59:41.384Z
+date: 2026-01-10T12:02:40.939Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T11:59:41.384Z
