@@ -2,7 +2,7 @@
 title: 1.1.1. Канон ~ IDEMO Canon (Core Ontology)
 description: 
 published: true
-date: 2026-01-10T12:10:07.207Z
+date: 2026-01-10T12:14:54.910Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T12:07:14.717Z
@@ -24,7 +24,7 @@ dateCreated: 2026-01-10T12:07:14.717Z
 - [1.1.4 Канон~Physical Irreversibility Canon](./lambda-phy-canon-v1.0.md#1-1-4-1)
 
 ## 1.1.1.3. Тезис <a name="1-1-1-3"></a>
-IDEMO — это вычислительная парадигма, в которой первичной онтологической единицей является Intent, а реализация является производной и эфемерной.
+IDEMO — вычислительная парадигма, в которой первичной онтологической единицей является Intent; реализация является полностью производной и динамически порождается через Change Operators в процессе ChangeFlow, реализуемого в топологии LifeCycle.
 
 ## 1.1.1.4. Формальное определение <a name="1-1-1-4"></a>
 IDEMO := ⟨Intent, ChangeFlow-6, ChangeOperators, Experience, Λ-Phy⟩
