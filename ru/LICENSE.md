@@ -1,0 +1,31 @@
+---
+title: LICENSE
+description: 
+published: true
+date: 2026-01-10T09:08:16.952Z
+tags: 
+editor: markdown
+dateCreated: 2026-01-10T09:03:17.459Z
+---
+
+# Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)
+
+© 2025 Yasha Okoneshnikov & contributors
+
+This repository, including but not limited to all documentation, methodological texts, canonical definitions, specifications, ontological and semantic content (the "IDEMO Corpus"), is licensed under the **Creative Commons Attribution–NonCommercial 4.0 International License**.
+
+## You are free to:
+
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+## Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+
+> This license applies to all normative and non-normative content in the repository unless explicitly stated otherwise.
+
+Full license text:  
+[https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/)
