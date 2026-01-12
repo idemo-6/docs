@@ -2,7 +2,7 @@
 title: 1.1.1. Канон ~ IDEMO Canon (Core Ontology)
 description: 
 published: true
-date: 2026-01-10T16:05:16.883Z
+date: 2026-01-12T18:10:01.658Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-10T12:07:14.717Z
@@ -52,5 +52,5 @@ $$
 ## 1.1.1.7. Заключение <a name="1-1-1-7"></a>
 IDEMO — это не модель вычисления, а модель **реальности изменений**, согласованная с физикой и онтологией.
 
-> **Онлайн-версия:** https://docs.idemo.ru/ru/1-core/1-canon/idemo-canon-core-ontology.md  
-> **GitHub-версия:** https://github.com/idemo-6/docs/blob/main/ru/1-core/1-canon/idemo-canon-core-ontology.md
+> **Онлайн-версия:** https://docs.idemo.ru/ru/1-canon/idemo-canon-core-ontology.md  
+> **GitHub-версия:** https://github.com/idemo-6/docs/blob/main/ru/1-canon/idemo-canon-core-ontology.md
